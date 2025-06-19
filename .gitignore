@@ -1,2 +1,4 @@
-mp4
+outputs/*.mp4
+videos/*.mp4
 venv
+
